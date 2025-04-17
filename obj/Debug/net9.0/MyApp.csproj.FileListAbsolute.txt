@@ -12,3 +12,4 @@
 /home/tess/CS/MyApp/obj/Debug/net9.0/MyApp.pdb
 /home/tess/CS/MyApp/obj/Debug/net9.0/MyApp.genruntimeconfig.cache
 /home/tess/CS/MyApp/obj/Debug/net9.0/ref/MyApp.dll
+/home/tess/CS/MyApp/obj/Debug/net9.0/MyApp.sourcelink.json
