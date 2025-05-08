@@ -1,0 +1,15 @@
+/home/tess/CS/MyApp/bin/Release/net9.0/MyApp
+/home/tess/CS/MyApp/bin/Release/net9.0/MyApp.deps.json
+/home/tess/CS/MyApp/bin/Release/net9.0/MyApp.runtimeconfig.json
+/home/tess/CS/MyApp/bin/Release/net9.0/MyApp.dll
+/home/tess/CS/MyApp/bin/Release/net9.0/MyApp.pdb
+/home/tess/CS/MyApp/obj/Release/net9.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/tess/CS/MyApp/obj/Release/net9.0/MyApp.AssemblyInfoInputs.cache
+/home/tess/CS/MyApp/obj/Release/net9.0/MyApp.AssemblyInfo.cs
+/home/tess/CS/MyApp/obj/Release/net9.0/MyApp.csproj.CoreCompileInputs.cache
+/home/tess/CS/MyApp/obj/Release/net9.0/MyApp.sourcelink.json
+/home/tess/CS/MyApp/obj/Release/net9.0/MyApp.dll
+/home/tess/CS/MyApp/obj/Release/net9.0/refint/MyApp.dll
+/home/tess/CS/MyApp/obj/Release/net9.0/MyApp.pdb
+/home/tess/CS/MyApp/obj/Release/net9.0/MyApp.genruntimeconfig.cache
+/home/tess/CS/MyApp/obj/Release/net9.0/ref/MyApp.dll

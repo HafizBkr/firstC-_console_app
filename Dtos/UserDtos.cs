@@ -8,3 +8,8 @@ public record class User(
     string Password
 );
 
+// struct Persone{
+//     string nom;
+//     string prenom;
+// }
+
