@@ -20,8 +20,8 @@ public class Program
         //  jean.Sauter();
 
 
-         Personne hafiz = new Homme(); 
-         hafiz.Nom="Hafiz";
+         Personne hafiz = new Homme { Nom = "Hafiz" }; 
+         Console.WriteLine(hafiz.Nom);
          hafiz.Manger();
          hafiz.Sauter();
         

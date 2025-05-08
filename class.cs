@@ -25,7 +25,7 @@ public class Dog : Animal
 
 
 public abstract class Personne {
-     public string Nom;
+     public required string Nom;
 
      public virtual  void Manger(){
         Console.WriteLine("Je mange ");
