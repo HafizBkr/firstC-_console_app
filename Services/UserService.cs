@@ -10,9 +10,13 @@ namespace MyApp.Services
                 string.IsNullOrWhiteSpace(createUserDto.Username) ||
                 string.IsNullOrWhiteSpace(createUserDto.Password))
             {
-                throw new ArgumentException("All fields are required.");
+                throw new ArgumentException("Tout les chmps sont requis.");
             }
             Console.WriteLine($"User created: {createUserDto.Username} ({createUserDto.Email})");
+        }
+        public void LoginUser(LoginUser LoginUserDto)
+        {
+            
         }
     }
 }
